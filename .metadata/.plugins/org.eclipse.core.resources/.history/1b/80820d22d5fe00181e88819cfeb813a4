@@ -1,0 +1,7 @@
+package cn.smile.mavproj;
+
+public class HelloController {
+	public String index() {
+		return "Hello Smileeeee";
+	}
+}
